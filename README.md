@@ -33,6 +33,8 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <img src="./Aderline490Skyline.gif" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aderline490&theme=jolly" width="700"/>
 <!--
 **Aderline490/Aderline490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
