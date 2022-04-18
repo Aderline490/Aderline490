@@ -1,17 +1,17 @@
 ### Hi there 👋 I am Aderline Gashugi 😁 a full stack developer. 
+
 <div align="center">
 <img src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif" height="500" width="500"  align="center" />
 </div>
 
-### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!
-
-</div>  
+### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!  
 <div></div>
 <div></div>
 <div></div>
 <div align="center">
 
 ### Contact me
+
 <a href="https://linkedin.com/in/gashugi-aderline-aa88971b3//" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
