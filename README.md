@@ -1,5 +1,7 @@
-### Hi there 👋
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" height="400vh" width="100%" /></a>
+### Hi there 👋 I am Aderline Gashugi 😁 a full stack developer. I am currently working on improving my skillset, 
+### learning new technologies and skills to create digital products. I do remote work for agencies and would
+### look forward to working with you
+<a href="Aderlineee" target="blank"><img align="center" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/fullscreen" height="400vh" width="100%" /></a>
 
 <!--
 **Aderline490/Aderline490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
