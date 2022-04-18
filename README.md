@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aderline Gashugi 😁 a Full Stack Developer. 
+## Hi there 👋 I am Aderline Gashugi 😁 a Full Stack Developer. 
 
 <div align="center">
 <img src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif" height="500" width="500"  align="center" />
