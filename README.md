@@ -19,10 +19,10 @@
 <img src=https://img.shields.io/badge/twitter-%success.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Aderline490" target="_blank">
-<img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/___aderline/ target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff69b4.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-ff69b4.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </a>  
 
