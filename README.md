@@ -6,6 +6,9 @@
 ### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!
 
 </div>  
+<div></div>
+<div></div>
+<div></div>
 <div align="center">
 
 ### Connect with me
