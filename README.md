@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Aderline Gashugi 😁 a full stack developer. I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you
-<a href="Aderlineee" target="blank"><img align="center" src="https://res.cloudinary.com/ddravaukf/image/upload/v1650288063/me_lo2uet.gif" height="500px" width="500px" style="margin:'auto'"/></a>
+<a href="Aderlineee" target="blank"><img align="center" src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif" height="500px" width="500px" style="margin:auto"/></a>
 
 <!--
 **Aderline490/Aderline490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
