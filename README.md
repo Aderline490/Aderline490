@@ -5,9 +5,10 @@
 
 ### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!
 
-### Connect with me
 </div>  
 <div align="center">
+
+### Connect with me
 <a href="https://linkedin.com/in/gashugi-aderline-aa88971b3//" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
