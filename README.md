@@ -1,6 +1,4 @@
-### Hi there 👋 I am Aderline Gashugi 😁 a full stack developer. I am currently working on improving my skillset, 
-### learning new technologies and skills to create digital products. I do remote work for agencies and would
-### look forward to working with you
+### Hi there 👋 I am Aderline Gashugi 😁 a full stack developer. I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you
 <a href="Aderlineee" target="blank"><img align="center" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/fullscreen" height="400vh" width="100%" /></a>
 
 <!--
