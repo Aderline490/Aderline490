@@ -34,7 +34,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <img src="./Aderline490Skyline.gif" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aderline490&theme=jolly" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aderline490&theme=jolly" width="700" >
 
 ```    
           My 2021 GitHub Skyline          
