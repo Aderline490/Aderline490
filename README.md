@@ -32,8 +32,6 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 <img src="./Aderline490Skyline.gif" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aderline490&theme=jolly" width="700" >
-
 ```    
           My 2021 GitHub Skyline          
 
