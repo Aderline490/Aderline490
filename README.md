@@ -43,6 +43,10 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 ▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
 
 ```
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/Aderline490/Aderline490/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Aderline490/Aderline490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
