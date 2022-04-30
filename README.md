@@ -24,7 +24,7 @@
 <a href="https://instagram.com/___aderline/ target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-[![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com)
+
 
 #### Top Technologies & Tools
 
