@@ -1,14 +1,20 @@
 ## Hi there 👋 I am Aderline Gashugi 😁 a Full Stack Developer. 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
-</p>
+
 
 <div align="center">
 <img src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif" height="500" width="500"  align="center" />
 </div>
 
 ### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!  
+
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
+</p>
+
+
 
 ## Contact me
 
