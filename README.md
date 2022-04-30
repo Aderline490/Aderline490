@@ -5,10 +5,10 @@
 </div>
 
 ### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!  
-<!-- <p align="center"> 
+<p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/igaimerca/count.svg" />
-</p> -->
+  <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
+</p>
 
 ## Contact me
 
