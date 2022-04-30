@@ -5,13 +5,17 @@
 </div>
 
 ### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!  
-<div></div>
-<div></div>
-<div></div>
+<!-- <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/igaimerca/count.svg" />
+</p> -->
 
 ## Contact me
 
-<a href="https://linkedin.com/in/gashugi-aderline-aa88971b3//" target="_blank">
+<a href="mailto:aderlinecarmella@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/gashugi-aderline-aa88971b3/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </a>
