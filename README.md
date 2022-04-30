@@ -36,7 +36,7 @@
 </a>
 
 
-#### Top Technologies & Tools
+## Top Technologies & Tools
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)  [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#)  [![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)  [![Adobe Xd Badge](https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white)](#)  [![Mysql Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)  [![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
