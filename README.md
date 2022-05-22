@@ -2,9 +2,7 @@
 
 
 <div>
-<img align="right" width="350px" height="350px" style="margin: auto;"  src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif"/>
-
-
+<p align="right"><img width="350px" height="350px" style="margin: auto;"  src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif"/></p>
 <p align="left">I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you! </p> 
 </div>
 
