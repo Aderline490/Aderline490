@@ -2,11 +2,12 @@
 
 
 <div style="display:flex">
-<p align="center"> 
+
+<p align="right"><img width="350px" height="350px" style="margin: auto;"  src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif"/></p>
+<p align="left"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
 </p>
-<p align="right"><img width="350px" height="350px" style="margin: auto;"  src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif"/></p>
 </div>
 
 <br><br>
