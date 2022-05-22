@@ -1,18 +1,18 @@
 ## Hi there 👋 I am Aderline Gashugi 😁 a Full Stack Developer. 
 
 
-<div style="display:flex">
-
-<p align="right"><img width="350px" height="350px" style="margin: auto;"  src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif"/></p>
-<p align="left"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
-</p>
+<div align="center">
+<img src="https://res.cloudinary.com/ddravaukf/image/upload/v1650289075/me_iszomr.gif" height="500" width="500"  align="center" />
 </div>
+
+### I am currently working on improving my skillset, learning new technologies and skills to create digital products. I do remote work for agencies and would look forward to working with you!  
 
 <br><br>
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Aderline490/count.svg" />
+</p>
 
 <br><br>
 
@@ -43,8 +43,8 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![FIGMA badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) [![TailwindCss badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 
 
-
-<!-- ## GitHub Stats
+<!-- 
+## GitHub Stats
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, add annotations, and even view it in Virtual Reality. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
