@@ -4,7 +4,14 @@ ___
 I am a UI/UX designer and Full Stack Developer proficient in front-end development with over 3 years of office experience. I specialize in problem-solving, planning, and optimal assistance with developing web and mobile-based platforms. Throughout my time working with different companies and other side projects, I have developed a diverse skill set and knowledge working with the latest technologies. I'm currently open to contract positions and other opportunities for growth.
 ___
 
-- 📫 You can reach out to me by: 
+- 👩‍💻Work References <br>
+
+  [RTB Tvet Management Portfolio](https://tvetmanagement.rtb.gov.rw/)<br>
+  [Guigozi Online Shop](https://guigozi.netlify.app/)<br>
+  [Ajiva Group](https://ajivagroup.rw/)<br>
+  [Homely](http://homely.vercel.app/)<br>
+
+- 📫 You can reach out to me by: <br>
 
   [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:aderlinecarmella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aderline-gashugi-aa88971b3/)
