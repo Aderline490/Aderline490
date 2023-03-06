@@ -9,7 +9,7 @@ ___
   [RTB Tvet Management Portfolio](https://tvetmanagement.rtb.gov.rw/)<br>
   [Guigozi Online Shop](https://guigozi.netlify.app/)<br>
   [Ajiva Group](https://ajivagroup.rw/)<br>
-  [Homely](http://homely.vercel.app/)<br>
+  [Homely](https://hom3ly.netlify.app/)<br>
 
 - 📫 You can reach out to me by: <br>
 
