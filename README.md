@@ -6,7 +6,7 @@ ___
 
 - 👩‍💻Work References <br>
 
-  [RTB Tvet Management Portfolio](https://tvetmanagement.rtb.gov.rw/)<br>
+  [RTB Tvet Management Platform](https://tvetmanagement.rtb.gov.rw/)<br>
   [Guigozi Online Shop](https://guigozi.netlify.app/)<br>
   [Ajiva Group](https://ajivagroup.rw/)<br>
   [Homely](https://hom3ly.netlify.app/)<br>
