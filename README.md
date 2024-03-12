@@ -6,7 +6,7 @@ ___
 
 - 👩‍💻Work References <br>
   [IREME online school management system](https://www.iremeapp.com/)<br>
-  [RTB Tvet Management Platform](https://tvetmanagement.rtb.gov.rw/)<br>
+  [RTB TVET Management Platform](https://tvetmanagement.rtb.gov.rw/)<br>
 
 - 📫 You can reach out to me by: <br>
 
