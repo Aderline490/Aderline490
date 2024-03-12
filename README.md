@@ -5,7 +5,7 @@ I am a UI/UX designer and Full Stack Developer proficient in front-end developme
 ___
 
 - 👩‍💻Work References <br>
-  [IREME SCHOOL MANAGEMENT PLATFORM](https://www.iremeapp.com/)<br>
+  [IREME online school management system](https://www.iremeapp.com/)<br>
   [RTB Tvet Management Platform](https://tvetmanagement.rtb.gov.rw/)<br>
 
 - 📫 You can reach out to me by: <br>
