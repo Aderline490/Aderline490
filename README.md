@@ -16,14 +16,14 @@ ___
 [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250788695515&text=Hello%20Aderline!%20%F0%9F%91%8B%F0%9F%8F%BB)
 [![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://aderline-gashugi.netlify.app)
 ___
-
+<!--
 |My github stats|My Top languages
 |-|-|
 |[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Aderline490&show_icons=true&theme=dark&hide_title=true)](https://github.com/Aderline490)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aderline490&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Aderline490)
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/Aderline490/Aderline490/blob/output/github-contribution-grid-snake.svg)
+<!-- ![mishmanners snake gif](https://github.com/Aderline490/Aderline490/blob/output/github-contribution-grid-snake.svg) -->
 <!--
 **Aderline490/Aderline490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
