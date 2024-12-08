@@ -11,11 +11,9 @@ ___
 
 - 📫 You can reach out to me by: <br>
 
-  [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:aderlinecarmella@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aderline-gashugi-aa88971b3/)
-[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Aderline490)
-[![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250788695515&text=Hello%20Aderline!%20%F0%9F%91%8B%F0%9F%8F%BB)
-[![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://aderline-gashugi.netlify.app)
+  [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:gashugiaderline@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aderline-gashugi/)
+
 ___
 <!--
 |My github stats|My Top languages
